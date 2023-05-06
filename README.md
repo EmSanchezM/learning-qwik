@@ -1,2 +1,2 @@
-# learning-qwik
+# Learning-qwik
 Learn concepts of qwik 
